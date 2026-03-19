@@ -13,10 +13,6 @@ A retail company wants to understand changing customer purchasing patterns acros
 Key question:
 > How can consumer shopping data be leveraged to identify trends, improve engagement, and optimize marketing strategies?
 
-(Ref: :contentReference[oaicite:0]{index=0})
-
----
-
 ## 📊 Dataset Summary
 - **Total Records:** 3,900 transactions  
 - **Features:** 18 columns  
