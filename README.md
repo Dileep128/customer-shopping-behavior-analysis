@@ -100,7 +100,3 @@ Developed an interactive dashboard to visualize:
 - SQL analysis queries  
 - Power BI dashboard  
 - Business insights & recommendations  
-
----
-
-## 📂 Repository Structure
